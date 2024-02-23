@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T15:12:46 IST" name="Suite" finished-at="2024-02-23T15:14:58 IST" duration-ms="131988">
+    <groups>
+    </groups>
+    <test started-at="2024-02-23T15:12:46 IST" name="Test" finished-at="2024-02-23T15:14:58 IST" duration-ms="131988">
+      <class name="prcatice.Maven5.Menytest">
+        <test-method signature="mytest()[pri:0, instance:prcatice.Maven5.Menytest@6eda5c9]" started-at="2024-02-23T15:12:46 IST" name="mytest" finished-at="2024-02-23T15:14:58 IST" duration-ms="131901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytest -->
+      </class> <!-- prcatice.Maven5.Menytest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
